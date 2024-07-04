@@ -7,7 +7,7 @@ This addition clarifies that the Ethereum Transferring Website project is meant 
 
 - **Blockchain Technology:** Utilizes Ethereum blockchain for secure and transparent transactions.
 - **Metamask Integration:** Users can connect their Metamask wallet to send and receive ETH.
-- **Test Environment:** Includes test ETH in Metamask wallet for easy testing and development.
+- **Test ETH:** Includes test ETH in Metamask wallet for easy testing and development.
 
 ## How to Run
 
