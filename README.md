@@ -9,6 +9,11 @@ This addition clarifies that the Ethereum Transferring Website project is meant 
 - **Metamask Integration:** Users can connect their Metamask wallet to send and receive ETH.
 - **Test ETH:** Includes test ETH in Metamask wallet for easy testing and development.
 
+## Built With
+
+- **Frontend:** React
+- **Blockchain:** Solidity, Smart Contracts
+
 ## How to Run
 
 To run this project locally, follow these steps:
