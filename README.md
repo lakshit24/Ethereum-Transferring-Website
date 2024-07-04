@@ -31,10 +31,3 @@ To run this project locally, follow these steps:
 4. **Run the Application:**
   ```bash
   npm start
-
-
-
-
-
-
-
