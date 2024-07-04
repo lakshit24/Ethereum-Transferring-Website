@@ -23,11 +23,12 @@ To run this project locally, follow these steps:
    ```bash
    npm install
    
-3.**Setup Metamask:**
-  Install the Metamask browser extension (Metamask).
-  Create a new account or import an existing one.
-  Switch to the Rinkeby test network and add test ETH using the Rinkeby faucet(or any other faucet)
+3. **Setup Metamask:**
+   - Install the Metamask browser extension (Metamask).
+   - Create a new account or import an existing one.
+   - Switch to the Rinkeby test network and add test ETH using the Rinkeby faucet(or any other faucet)
 
 4. **Run the Application:**
-  ```bash
-  npm start
+    Switch to client folder and run the application by using command 
+   ```bash
+   npm start
